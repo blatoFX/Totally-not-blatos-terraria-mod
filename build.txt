@@ -1,0 +1,3 @@
+displayName = BL3 Legendary Drops
+author = Blato
+version = 0.1
