@@ -1,0 +1,72 @@
+---Boss Drops
+//King Slime       - Companion
+//Eye of Cthulhu   - Maggie
++Eater/Brain       - Psycho Stabber
+Dark Mage          - Skeksil *
+Queen Bee          - Hornet *
+//Skeletron        - Lyuda
+//Wall of Flesh    - Flakker
+Flying Dutchman    - Lucky 7 *
+//Twins            - Hellshock
+//Destroyer        - Night Hawkin
+//Prime            - The Lob
+Ogre               - Ogre *
+//Plantera         - Kaoson
+Pumpking           - Krakatoa *
+Ice Queen          - Monarch *
+Golem              - Sand Hawk *
+Martian Saucer     - ION CANNON *
+Betsy              - Ruby's Wrath *
+//Duke Fishron     - Hyperfocus
+Cultist            - Occultist *
+Moon Lord          - Anarchy
+
+---Miniboss Drops
+Solar Pillar       - Smog *
+Nebula Pillar      - Yellowcake *
+Vortex Pillar      - Light Show
+Stardust Pillar    - OPQ System *
+Mothron            - Butcher *
+Pirate Captain     - Miscreant
+Mourning Wood      - Devastator *
+Headless Horseman  - Unforgiven *
+Everscream         - Hydrafrost *
+Santa-NK1          - Scoville *
+//Dungeon Guardian - Unkempt Harold
+Goblin Summoner    - Redistributor *
+
+---Enemy Drops
+Frost Legion       - Conference Call *
+Tim                - Hellwalker
+Rune Wizard        - Sellout *
+Nymph              - Roisen's Thorns *
+Sand Elemental     - Lead Sprinkler *
+Ice Golem          - Long Musket *
+Wyvern             - Sickle *
+Doctor Bones       - Sledge's Shotgun *
+The Bride/Groom    - Love Drill *
+Paladin            - Face Puncher *
++Pinky             - Infinity
+
+---1.4 Drops
+Queen Slime        - Globetrottr *
+Empress of Light   - Wedding Invitation *
+Dreadnautilus      - Nukem *
+Blood Eel          - Heart Breaker *
+Hemogoblin Shark   - Flood *
+Wandering Eye Fish - Night Flyer *
+Zombie Merman      - Robin's Call *
+
+*  == needs to be sprited
++  == needs to be fixed
+// == completed
+
+Brainstormer/Reflux???
+
+Basic gun sound: 11
+Pump shotgun sound: 36
+Heavy shot sound: 38
+Sniper shot sound: 40
+Revolver shot sound: 41
+Grenade launcher sound: 61
+Nailgun sound: 108
